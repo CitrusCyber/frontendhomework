@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    font-size: 25px;
+    color:  blue;
+    padding-bottom: 10px;
+}
+
+
+.viewAnswer{
+    font-size: 20px;
+    border: 10px;
+    border-radius: 10px;
+    background-color: gray;
+    cursor: pointer;
+    gap: 4px;
+}
+
+
+.zagadka{
+    padding: 20px;
+}
+
+.answer{
+    display: none;
+}
+
+
+
+
+.hidden{
+    display: block;
+}
